@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sakurapen
+- 👀 I’m interested in DevOps, SRE
+- 🌱 I’m currently learning Kubernetes, python
+- 📫 How to reach me sakurapen(at)project2501.cc
